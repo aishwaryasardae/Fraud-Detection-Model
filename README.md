@@ -2,13 +2,14 @@
 
 The dataset was generated using aggregated metrics from the private dataset of a multinational mobile financial services company, and then malicious entries were injected. (TESTIMON @ NTNU, Kaggle). The dataset contains 11 columns of information for ~6 million rows of data. 
 
- The key columns available are:  
+ The key columns available are:    
+ 
 
-Type of transactions
-Amount transacted
-Customer ID and Recipient ID
-Old and New balance of Customer and Recipient
-Time step of the transaction
+Type of transactions   
+Amount transacted  
+Customer ID and Recipient ID  
+Old and New balance of Customer and Recipient  
+Time step of the transaction  
 Whether the transaction was fraudulent or not
 
 
