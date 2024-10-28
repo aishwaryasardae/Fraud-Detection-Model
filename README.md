@@ -21,5 +21,13 @@ The dataset used in this analysis is a synthetic digital transaction dataset cre
 
 | Name of the Variable  |  Description                                                         |
 | --------------------- | -------------------------------------------------------------------- |
+| Step                  | Content Cell                                                         |
+| type          | Content Cell                                                         |
+| amount          | Content Cell                                                         |
+| nameOrig          | Content Cell                                                         |
+| oldbalanceOrg          | Content Cell                                                         |
+| newbalanceOrig          | Content Cell                                                         |
+| Content Cell          | Content Cell                                                         |
+| Content Cell          | Content Cell                                                         |
 | Content Cell          | Content Cell                                                         |
 | Content Cell          | Content Cell                                                         |
