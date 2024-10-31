@@ -21,13 +21,14 @@ The dataset used in this analysis is a synthetic digital transaction dataset cre
 
 | Name of the Variable  |  Description                                                         |
 | --------------------- | -------------------------------------------------------------------- |
-| Step                  | Content Cell                                                         |
+| Step                  | maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).                                                         |
 | type          | Content Cell                                                         |
 | amount          | Content Cell                                                         |
 | nameOrig          | Content Cell                                                         |
 | oldbalanceOrg          | Content Cell                                                         |
 | newbalanceOrig          | Content Cell                                                         |
-| Content Cell          | Content Cell                                                         |
-| Content Cell          | Content Cell                                                         |
-| Content Cell          | Content Cell                                                         |
-| Content Cell          | Content Cell                                                         |
+| nameDest          | Content Cell                                                         |
+| oldbalanceDest          | Content Cell                                                         |
+| newbalanceDest          | Content Cell                                                         |
+| isFraud         | Content Cell                                                         |
+| isFlaggedFraud         | Content Cell                                                         |
